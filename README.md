@@ -1,2 +1,2 @@
 # Data Visualization Workshop
-Matplotlib and PLotly
+Matplotlib and Plotly
